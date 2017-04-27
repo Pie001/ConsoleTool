@@ -1,0 +1,13 @@
+C:\Dev\CompressionTool\CompressionTool\bin\Debug\ConsoleTool.exe.config
+C:\Dev\CompressionTool\CompressionTool\bin\Debug\ConsoleTool.exe
+C:\Dev\CompressionTool\CompressionTool\bin\Debug\ConsoleTool.pdb
+C:\Dev\CompressionTool\CompressionTool\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Dev\CompressionTool\CompressionTool\obj\Debug\ConsoleTool.exe
+C:\Dev\CompressionTool\CompressionTool\obj\Debug\ConsoleTool.pdb
+C:\Dev\ConsoleTool\ConsoleTool\bin\Debug\ConsoleTool.exe.config
+C:\Dev\ConsoleTool\ConsoleTool\obj\Debug\ConsoleTool.exe
+C:\Dev\ConsoleTool\ConsoleTool\obj\Debug\ConsoleTool.pdb
+C:\Dev\ConsoleTool\ConsoleTool\bin\Debug\ConsoleTool.exe
+C:\Dev\ConsoleTool\ConsoleTool\bin\Debug\ConsoleTool.pdb
+C:\Dev\ConsoleTool\ConsoleTool\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Dev\ConsoleTool\ConsoleTool\obj\Debug\ConsoleTool.csprojResolveAssemblyReference.cache
