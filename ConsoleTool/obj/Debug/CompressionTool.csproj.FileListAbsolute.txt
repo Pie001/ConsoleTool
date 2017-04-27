@@ -1,6 +1,0 @@
-C:\Dev\CompressionTool\CompressionTool\bin\Debug\CompressionTool.exe.config
-C:\Dev\CompressionTool\CompressionTool\bin\Debug\CompressionTool.exe
-C:\Dev\CompressionTool\CompressionTool\bin\Debug\CompressionTool.pdb
-C:\Dev\CompressionTool\CompressionTool\obj\Debug\CompressionTool.exe
-C:\Dev\CompressionTool\CompressionTool\obj\Debug\CompressionTool.pdb
-C:\Dev\CompressionTool\CompressionTool\bin\Debug\ICSharpCode.SharpZipLib.dll
