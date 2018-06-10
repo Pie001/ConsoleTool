@@ -1,1 +1,3 @@
-# ConsoleTool
+# ZipFileControlByConsole
+
+圧縮ファイル制御検証用のプロトタイププロジェクト
